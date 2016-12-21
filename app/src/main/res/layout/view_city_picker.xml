@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:su="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal" >
+
+    <com.sinia.cyclonecharge.city.ScrollerNumberPicker
+        android:id="@+id/province"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        su:itemNumber="7"
+        su:lineColor="#d8d8d8"
+        su:maskHight="30dp"
+        su:noEmpty="true"
+        su:normalTextColor="#aa000000"
+        su:normalTextSize="16sp"
+        su:selecredTextColor="#000"
+        su:selecredTextSize="18sp"
+        su:unitHight="30dp" />
+
+    <com.sinia.cyclonecharge.city.ScrollerNumberPicker
+        android:id="@+id/city"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        su:itemNumber="7"
+        su:lineColor="#d8d8d8"
+        su:maskHight="30dp"
+        su:noEmpty="true"
+        su:selecredTextColor="#000"
+        su:normalTextSize="16sp"
+        su:selecredTextSize="18sp"
+        su:unitHight="30dp" />
+    
+    <com.sinia.cyclonecharge.city.ScrollerNumberPicker
+        android:id="@+id/couny"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        su:itemNumber="7"
+        su:lineColor="#d8d8d8"
+        su:maskHight="30dp"
+        su:noEmpty="true"
+        su:normalTextColor="#aa000000"
+        su:normalTextSize="16sp"
+        su:selecredTextColor="#000"
+        su:selecredTextSize="18sp"
+        su:unitHight="30dp" />
+
+</LinearLayout>

@@ -1,0 +1,2738 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 22,
+                        "endColumn": 19,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endLine": 49,
+                    "endColumn": 19,
+                    "endOffset": 2606
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1202,
+                        "endLine": 49,
+                        "endColumn": 19,
+                        "endOffset": 2606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2611,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endLine": 53,
+                        "endColumn": 19,
+                        "endOffset": 2747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endLine": 61,
+                    "endColumn": 19,
+                    "endOffset": 3224
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2752,
+                        "endLine": 61,
+                        "endColumn": 19,
+                        "endOffset": 3224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3229,
+                    "endLine": 65,
+                    "endColumn": 19,
+                    "endOffset": 3422
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3229,
+                        "endLine": 65,
+                        "endColumn": 19,
+                        "endOffset": 3422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3427,
+                    "endLine": 73,
+                    "endColumn": 19,
+                    "endOffset": 3910
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3427,
+                        "endLine": 73,
+                        "endColumn": 19,
+                        "endOffset": 3910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3915,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 4598
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3915,
+                        "endLine": 88,
+                        "endColumn": 19,
+                        "endOffset": 4598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4603,
+                    "endLine": 97,
+                    "endColumn": 19,
+                    "endOffset": 5148
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 4603,
+                        "endLine": 97,
+                        "endColumn": 19,
+                        "endOffset": 5148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5153,
+                    "endLine": 100,
+                    "endColumn": 16,
+                    "endOffset": 5220
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 5153,
+                        "endLine": 100,
+                        "endColumn": 16,
+                        "endOffset": 5220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5225,
+                    "endLine": 113,
+                    "endColumn": 19,
+                    "endOffset": 5994
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5225,
+                        "endLine": 113,
+                        "endColumn": 19,
+                        "endOffset": 5994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5999,
+                    "endLine": 124,
+                    "endColumn": 19,
+                    "endOffset": 6447
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 5999,
+                        "endLine": 124,
+                        "endColumn": 19,
+                        "endOffset": 6447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6452,
+                    "endLine": 138,
+                    "endColumn": 19,
+                    "endOffset": 7104
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 6452,
+                        "endLine": 138,
+                        "endColumn": 19,
+                        "endOffset": 7104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7109,
+                    "endLine": 162,
+                    "endColumn": 19,
+                    "endOffset": 8787
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 7109,
+                        "endLine": 162,
+                        "endColumn": 19,
+                        "endOffset": 8787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 8792,
+                    "endLine": 172,
+                    "endColumn": 19,
+                    "endOffset": 9289
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 8792,
+                        "endLine": 172,
+                        "endColumn": 19,
+                        "endOffset": 9289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9294,
+                    "endLine": 175,
+                    "endColumn": 16,
+                    "endOffset": 9361
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 9294,
+                        "endLine": 175,
+                        "endColumn": 16,
+                        "endOffset": 9361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9366,
+                    "endLine": 179,
+                    "endColumn": 19,
+                    "endOffset": 9519
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 9366,
+                        "endLine": 179,
+                        "endColumn": 19,
+                        "endOffset": 9519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9524,
+                    "endLine": 181,
+                    "endColumn": 16,
+                    "endOffset": 9585
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 9524,
+                        "endLine": 181,
+                        "endColumn": 16,
+                        "endOffset": 9585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9590,
+                    "endLine": 186,
+                    "endColumn": 19,
+                    "endOffset": 10656
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 9590,
+                        "endLine": 186,
+                        "endColumn": 19,
+                        "endOffset": 10656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10661,
+                    "endLine": 210,
+                    "endColumn": 19,
+                    "endOffset": 11745
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 10661,
+                        "endLine": 210,
+                        "endColumn": 19,
+                        "endOffset": 11745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 11750,
+                    "endLine": 222,
+                    "endColumn": 19,
+                    "endOffset": 12426
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 11750,
+                        "endLine": 222,
+                        "endColumn": 19,
+                        "endOffset": 12426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 12431,
+                    "endLine": 225,
+                    "endColumn": 16,
+                    "endOffset": 12498
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 12431,
+                        "endLine": 225,
+                        "endColumn": 16,
+                        "endOffset": 12498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 12503,
+                    "endLine": 228,
+                    "endColumn": 16,
+                    "endOffset": 12570
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 12503,
+                        "endLine": 228,
+                        "endColumn": 16,
+                        "endOffset": 12570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 12575,
+                    "endLine": 240,
+                    "endColumn": 19,
+                    "endOffset": 13174
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 12575,
+                        "endLine": 240,
+                        "endColumn": 19,
+                        "endOffset": 13174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 13179,
+                    "endLine": 250,
+                    "endColumn": 19,
+                    "endOffset": 13827
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 13179,
+                        "endLine": 250,
+                        "endColumn": 19,
+                        "endOffset": 13827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 13832,
+                    "endLine": 264,
+                    "endColumn": 19,
+                    "endOffset": 16585
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 13832,
+                        "endLine": 264,
+                        "endColumn": 19,
+                        "endOffset": 16585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 16590,
+                    "endLine": 273,
+                    "endColumn": 19,
+                    "endOffset": 17008
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 16590,
+                        "endLine": 273,
+                        "endColumn": 19,
+                        "endOffset": 17008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 17013,
+                    "endColumn": 54,
+                    "endOffset": 17063
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 17013,
+                        "endColumn": 54,
+                        "endOffset": 17063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 17068,
+                    "endColumn": 57,
+                    "endOffset": 17121
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 17068,
+                        "endColumn": 57,
+                        "endOffset": 17121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 17126,
+                    "endColumn": 58,
+                    "endOffset": 17180
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 17126,
+                        "endColumn": 58,
+                        "endOffset": 17180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 17185,
+                    "endColumn": 57,
+                    "endOffset": 17238
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 17185,
+                        "endColumn": 57,
+                        "endOffset": 17238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 17243,
+                    "endColumn": 57,
+                    "endOffset": 17296
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 17243,
+                        "endColumn": 57,
+                        "endOffset": 17296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 17301,
+                    "endColumn": 58,
+                    "endOffset": 17355
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 17301,
+                        "endColumn": 58,
+                        "endOffset": 17355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 17360,
+                    "endColumn": 58,
+                    "endOffset": 17414
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 17360,
+                        "endColumn": 58,
+                        "endOffset": 17414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 17419,
+                    "endColumn": 54,
+                    "endOffset": 17469
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 17419,
+                        "endColumn": 54,
+                        "endOffset": 17469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 17474,
+                    "endColumn": 55,
+                    "endOffset": 17525
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 17474,
+                        "endColumn": 55,
+                        "endOffset": 17525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 17530,
+                    "endColumn": 58,
+                    "endOffset": 17584
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 17530,
+                        "endColumn": 58,
+                        "endOffset": 17584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 17589,
+                    "endColumn": 65,
+                    "endOffset": 17650
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 17589,
+                        "endColumn": 65,
+                        "endOffset": 17650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 17655,
+                    "endColumn": 54,
+                    "endOffset": 17705
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 17655,
+                        "endColumn": 54,
+                        "endOffset": 17705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 17710,
+                    "endColumn": 62,
+                    "endOffset": 17768
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 17710,
+                        "endColumn": 62,
+                        "endOffset": 17768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 17773,
+                    "endColumn": 64,
+                    "endOffset": 17833
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 17773,
+                        "endColumn": 64,
+                        "endOffset": 17833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 17838,
+                    "endColumn": 54,
+                    "endOffset": 17888
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 17838,
+                        "endColumn": 54,
+                        "endOffset": 17888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 17893,
+                    "endColumn": 56,
+                    "endOffset": 17945
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 17893,
+                        "endColumn": 56,
+                        "endOffset": 17945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 17950,
+                    "endColumn": 54,
+                    "endOffset": 18000
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 17950,
+                        "endColumn": 54,
+                        "endOffset": 18000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 18005,
+                    "endColumn": 56,
+                    "endOffset": 18057
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 18005,
+                        "endColumn": 56,
+                        "endOffset": 18057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 18062,
+                    "endColumn": 55,
+                    "endOffset": 18113
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 18062,
+                        "endColumn": 55,
+                        "endOffset": 18113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 18118,
+                    "endColumn": 61,
+                    "endOffset": 18175
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 18118,
+                        "endColumn": 61,
+                        "endOffset": 18175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 18180,
+                    "endColumn": 62,
+                    "endOffset": 18238
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 18180,
+                        "endColumn": 62,
+                        "endOffset": 18238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 18243,
+                    "endColumn": 57,
+                    "endOffset": 18296
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 18243,
+                        "endColumn": 57,
+                        "endOffset": 18296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 18301,
+                    "endColumn": 60,
+                    "endOffset": 18357
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 18301,
+                        "endColumn": 60,
+                        "endOffset": 18357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 18362,
+                    "endColumn": 59,
+                    "endOffset": 18417
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 18362,
+                        "endColumn": 59,
+                        "endOffset": 18417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 18422,
+                    "endColumn": 62,
+                    "endOffset": 18480
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 18422,
+                        "endColumn": 62,
+                        "endOffset": 18480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 18485,
+                    "endColumn": 62,
+                    "endOffset": 18543
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 18485,
+                        "endColumn": 62,
+                        "endOffset": 18543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 18548,
+                    "endColumn": 68,
+                    "endOffset": 18612
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 18548,
+                        "endColumn": 68,
+                        "endOffset": 18612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 18617,
+                    "endColumn": 58,
+                    "endOffset": 18671
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 18617,
+                        "endColumn": 58,
+                        "endOffset": 18671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 18676,
+                    "endColumn": 59,
+                    "endOffset": 18731
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 18676,
+                        "endColumn": 59,
+                        "endOffset": 18731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 18736,
+                    "endColumn": 60,
+                    "endOffset": 18792
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 4,
+                        "startOffset": 18736,
+                        "endColumn": 60,
+                        "endOffset": 18792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 18797,
+                    "endColumn": 60,
+                    "endOffset": 18853
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 18797,
+                        "endColumn": 60,
+                        "endOffset": 18853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 18858,
+                    "endColumn": 56,
+                    "endOffset": 18910
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 18858,
+                        "endColumn": 56,
+                        "endOffset": 18910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 18915,
+                    "endColumn": 56,
+                    "endOffset": 18967
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 18915,
+                        "endColumn": 56,
+                        "endOffset": 18967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 18972,
+                    "endColumn": 59,
+                    "endOffset": 19027
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 18972,
+                        "endColumn": 59,
+                        "endOffset": 19027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 19032,
+                    "endColumn": 66,
+                    "endOffset": 19094
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 19032,
+                        "endColumn": 66,
+                        "endOffset": 19094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 19099,
+                    "endColumn": 61,
+                    "endOffset": 19156
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 19099,
+                        "endColumn": 61,
+                        "endOffset": 19156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 19161,
+                    "endColumn": 64,
+                    "endOffset": 19221
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 19161,
+                        "endColumn": 64,
+                        "endOffset": 19221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 19226,
+                    "endColumn": 69,
+                    "endOffset": 19291
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 19226,
+                        "endColumn": 69,
+                        "endOffset": 19291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 19296,
+                    "endColumn": 66,
+                    "endOffset": 19358
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 19296,
+                        "endColumn": 66,
+                        "endOffset": 19358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 19363,
+                    "endColumn": 67,
+                    "endOffset": 19426
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 19363,
+                        "endColumn": 67,
+                        "endOffset": 19426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 19431,
+                    "endColumn": 57,
+                    "endOffset": 19484
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 19431,
+                        "endColumn": 57,
+                        "endOffset": 19484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 19489,
+                    "endColumn": 69,
+                    "endOffset": 19554
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 19489,
+                        "endColumn": 69,
+                        "endOffset": 19554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 19559,
+                    "endColumn": 65,
+                    "endOffset": 19620
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 19559,
+                        "endColumn": 65,
+                        "endOffset": 19620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 19625,
+                    "endColumn": 73,
+                    "endOffset": 19694
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 19625,
+                        "endColumn": 73,
+                        "endOffset": 19694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 19699,
+                    "endColumn": 69,
+                    "endOffset": 19764
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 19699,
+                        "endColumn": 69,
+                        "endOffset": 19764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 19769,
+                    "endColumn": 80,
+                    "endOffset": 19845
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 19769,
+                        "endColumn": 80,
+                        "endOffset": 19845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 19850,
+                    "endColumn": 88,
+                    "endOffset": 19934
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 19850,
+                        "endColumn": 88,
+                        "endOffset": 19934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 19939,
+                    "endColumn": 93,
+                    "endOffset": 20028
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 19939,
+                        "endColumn": 93,
+                        "endOffset": 20028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 20033,
+                    "endColumn": 86,
+                    "endOffset": 20115
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 20033,
+                        "endColumn": 86,
+                        "endOffset": 20115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 20120,
+                    "endColumn": 77,
+                    "endOffset": 20193
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 20120,
+                        "endColumn": 77,
+                        "endOffset": 20193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 20198,
+                    "endColumn": 96,
+                    "endOffset": 20290
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 20198,
+                        "endColumn": 96,
+                        "endOffset": 20290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 20295,
+                    "endColumn": 64,
+                    "endOffset": 20355
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 20295,
+                        "endColumn": 64,
+                        "endOffset": 20355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 20360,
+                    "endColumn": 62,
+                    "endOffset": 20418
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 20360,
+                        "endColumn": 62,
+                        "endOffset": 20418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 20423,
+                    "endColumn": 59,
+                    "endOffset": 20478
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 20423,
+                        "endColumn": 59,
+                        "endOffset": 20478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 20483,
+                    "endColumn": 60,
+                    "endOffset": 20539
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 20483,
+                        "endColumn": 60,
+                        "endOffset": 20539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 20544,
+                    "endColumn": 69,
+                    "endOffset": 20609
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 20544,
+                        "endColumn": 69,
+                        "endOffset": 20609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 20614,
+                    "endColumn": 59,
+                    "endOffset": 20669
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 20614,
+                        "endColumn": 59,
+                        "endOffset": 20669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 20674,
+                    "endColumn": 63,
+                    "endOffset": 20733
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 20674,
+                        "endColumn": 63,
+                        "endOffset": 20733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 20738,
+                    "endColumn": 63,
+                    "endOffset": 20797
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 20738,
+                        "endColumn": 63,
+                        "endOffset": 20797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 20802,
+                    "endColumn": 63,
+                    "endOffset": 20861
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 20802,
+                        "endColumn": 63,
+                        "endOffset": 20861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 20866,
+                    "endColumn": 64,
+                    "endOffset": 20926
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 20866,
+                        "endColumn": 64,
+                        "endOffset": 20926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 20931,
+                    "endColumn": 69,
+                    "endOffset": 20996
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 20931,
+                        "endColumn": 69,
+                        "endOffset": 20996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 21001,
+                    "endColumn": 69,
+                    "endOffset": 21066
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 21001,
+                        "endColumn": 69,
+                        "endOffset": 21066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 21071,
+                    "endColumn": 64,
+                    "endOffset": 21131
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 21071,
+                        "endColumn": 64,
+                        "endOffset": 21131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 21136,
+                    "endColumn": 65,
+                    "endOffset": 21197
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 21136,
+                        "endColumn": 65,
+                        "endOffset": 21197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 21202,
+                    "endColumn": 67,
+                    "endOffset": 21265
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 21202,
+                        "endColumn": 67,
+                        "endOffset": 21265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 21270,
+                    "endColumn": 60,
+                    "endOffset": 21326
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 21270,
+                        "endColumn": 60,
+                        "endOffset": 21326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 21331,
+                    "endColumn": 61,
+                    "endOffset": 21388
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 21331,
+                        "endColumn": 61,
+                        "endOffset": 21388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 21393,
+                    "endColumn": 74,
+                    "endOffset": 21463
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 21393,
+                        "endColumn": 74,
+                        "endOffset": 21463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 21468,
+                    "endColumn": 60,
+                    "endOffset": 21524
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 21468,
+                        "endColumn": 60,
+                        "endOffset": 21524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 21529,
+                    "endColumn": 89,
+                    "endOffset": 21614
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 21529,
+                        "endColumn": 89,
+                        "endOffset": 21614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 21619,
+                    "endColumn": 72,
+                    "endOffset": 21687
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 21619,
+                        "endColumn": 72,
+                        "endOffset": 21687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 21692,
+                    "endColumn": 61,
+                    "endOffset": 21749
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 21692,
+                        "endColumn": 61,
+                        "endOffset": 21749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 21754,
+                    "endColumn": 82,
+                    "endOffset": 21832
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 21754,
+                        "endColumn": 82,
+                        "endOffset": 21832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 21837,
+                    "endColumn": 57,
+                    "endOffset": 21890
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 21837,
+                        "endColumn": 57,
+                        "endOffset": 21890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 21895,
+                    "endColumn": 66,
+                    "endOffset": 21957
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 21895,
+                        "endColumn": 66,
+                        "endOffset": 21957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 21962,
+                    "endColumn": 73,
+                    "endOffset": 22031
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 21962,
+                        "endColumn": 73,
+                        "endOffset": 22031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 22036,
+                    "endColumn": 65,
+                    "endOffset": 22097
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 22036,
+                        "endColumn": 65,
+                        "endOffset": 22097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 22102,
+                    "endColumn": 72,
+                    "endOffset": 22170
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 22102,
+                        "endColumn": 72,
+                        "endOffset": 22170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 22175,
+                    "endColumn": 67,
+                    "endOffset": 22238
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 22175,
+                        "endColumn": 67,
+                        "endOffset": 22238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 22243,
+                    "endColumn": 69,
+                    "endOffset": 22308
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 22243,
+                        "endColumn": 69,
+                        "endOffset": 22308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 22313,
+                    "endColumn": 67,
+                    "endOffset": 22376
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 22313,
+                        "endColumn": 67,
+                        "endOffset": 22376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 22381,
+                    "endColumn": 70,
+                    "endOffset": 22447
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 22381,
+                        "endColumn": 70,
+                        "endOffset": 22447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 22452,
+                    "endColumn": 68,
+                    "endOffset": 22516
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 22452,
+                        "endColumn": 68,
+                        "endOffset": 22516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 22521,
+                    "endColumn": 73,
+                    "endOffset": 22590
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 22521,
+                        "endColumn": 73,
+                        "endOffset": 22590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 22595,
+                    "endColumn": 63,
+                    "endOffset": 22654
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 22595,
+                        "endColumn": 63,
+                        "endOffset": 22654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 22659,
+                    "endColumn": 70,
+                    "endOffset": 22725
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 22659,
+                        "endColumn": 70,
+                        "endOffset": 22725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 22730,
+                    "endColumn": 65,
+                    "endOffset": 22791
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 22730,
+                        "endColumn": 65,
+                        "endOffset": 22791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 22796,
+                    "endColumn": 69,
+                    "endOffset": 22861
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 22796,
+                        "endColumn": 69,
+                        "endOffset": 22861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 22866,
+                    "endColumn": 62,
+                    "endOffset": 22924
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 22866,
+                        "endColumn": 62,
+                        "endOffset": 22924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 22929,
+                    "endColumn": 69,
+                    "endOffset": 22994
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 22929,
+                        "endColumn": 69,
+                        "endOffset": 22994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 22999,
+                    "endColumn": 68,
+                    "endOffset": 23063
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 22999,
+                        "endColumn": 68,
+                        "endOffset": 23063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 23068,
+                    "endColumn": 68,
+                    "endOffset": 23132
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 23068,
+                        "endColumn": 68,
+                        "endOffset": 23132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 23137,
+                    "endColumn": 63,
+                    "endOffset": 23196
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 367,
+                        "startColumn": 4,
+                        "startOffset": 23137,
+                        "endColumn": 63,
+                        "endOffset": 23196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 23201,
+                    "endColumn": 66,
+                    "endOffset": 23263
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 368,
+                        "startColumn": 4,
+                        "startOffset": 23201,
+                        "endColumn": 66,
+                        "endOffset": 23263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 23268,
+                    "endColumn": 97,
+                    "endOffset": 23361
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 369,
+                        "startColumn": 4,
+                        "startOffset": 23268,
+                        "endColumn": 97,
+                        "endOffset": 23361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 23366,
+                    "endColumn": 87,
+                    "endOffset": 23449
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 4,
+                        "startOffset": 23366,
+                        "endColumn": 87,
+                        "endOffset": 23449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 23454,
+                    "endColumn": 81,
+                    "endOffset": 23531
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 23454,
+                        "endColumn": 81,
+                        "endOffset": 23531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 23536,
+                    "endColumn": 60,
+                    "endOffset": 23592
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 23536,
+                        "endColumn": 60,
+                        "endOffset": 23592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 23597,
+                    "endColumn": 71,
+                    "endOffset": 23664
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 4,
+                        "startOffset": 23597,
+                        "endColumn": 71,
+                        "endOffset": 23664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 23669,
+                    "endColumn": 67,
+                    "endOffset": 23732
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 4,
+                        "startOffset": 23669,
+                        "endColumn": 67,
+                        "endOffset": 23732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 23737,
+                    "endColumn": 75,
+                    "endOffset": 23808
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 375,
+                        "startColumn": 4,
+                        "startOffset": 23737,
+                        "endColumn": 75,
+                        "endOffset": 23808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 23813,
+                    "endColumn": 71,
+                    "endOffset": 23880
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 23813,
+                        "endColumn": 71,
+                        "endOffset": 23880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 23885,
+                    "endColumn": 82,
+                    "endOffset": 23963
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 23885,
+                        "endColumn": 82,
+                        "endOffset": 23963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 23968,
+                    "endColumn": 90,
+                    "endOffset": 24054
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 4,
+                        "startOffset": 23968,
+                        "endColumn": 90,
+                        "endOffset": 24054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 24059,
+                    "endColumn": 95,
+                    "endOffset": 24150
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 4,
+                        "startOffset": 24059,
+                        "endColumn": 95,
+                        "endOffset": 24150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 24155,
+                    "endColumn": 88,
+                    "endOffset": 24239
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 4,
+                        "startOffset": 24155,
+                        "endColumn": 88,
+                        "endOffset": 24239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 24244,
+                    "endColumn": 79,
+                    "endOffset": 24319
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 4,
+                        "startOffset": 24244,
+                        "endColumn": 79,
+                        "endOffset": 24319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 24324,
+                    "endColumn": 98,
+                    "endOffset": 24418
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 382,
+                        "startColumn": 4,
+                        "startOffset": 24324,
+                        "endColumn": 98,
+                        "endOffset": 24418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 24423,
+                    "endColumn": 66,
+                    "endOffset": 24485
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 383,
+                        "startColumn": 4,
+                        "startOffset": 24423,
+                        "endColumn": 66,
+                        "endOffset": 24485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 24490,
+                    "endColumn": 64,
+                    "endOffset": 24550
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 24490,
+                        "endColumn": 64,
+                        "endOffset": 24550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 24555,
+                    "endColumn": 61,
+                    "endOffset": 24612
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 385,
+                        "startColumn": 4,
+                        "startOffset": 24555,
+                        "endColumn": 61,
+                        "endOffset": 24612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 24617,
+                    "endColumn": 62,
+                    "endOffset": 24675
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 386,
+                        "startColumn": 4,
+                        "startOffset": 24617,
+                        "endColumn": 62,
+                        "endOffset": 24675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 24680,
+                    "endColumn": 71,
+                    "endOffset": 24747
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 24680,
+                        "endColumn": 71,
+                        "endOffset": 24747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 24752,
+                    "endColumn": 61,
+                    "endOffset": 24809
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\CycloneCharge\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 388,
+                        "startColumn": 4,
+                        "startOffset": 24752,
+                        "endColumn": 61,
+                        "endOffset": 24809
+                    }
+                }
+            }
+        ]
+    }
+]

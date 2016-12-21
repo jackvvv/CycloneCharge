@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">旋风充</string>
+    <string name="about_us">河南黄河实业集团股份有限公司拥有国家级企业技术中心、企业博士后科研工作站，是国家高新技术企业。近年来公司着重发展自动化、发电及新能源、节能环保、工业控制等高新项目。\n\n蓝电智能科技股份有限公司是河南黄河实业集团股份有限公司全资子公司，集研制、开发、生产、工程实施、运营维护和全程服务于一体，具备交流充电桩、直流充电桩、工业自动化部分制造的核心技术。</string>
+    <string name="scan_msg">请将充电桩表面或液晶屏幕上的二维码放入框内即可自动扫描识别</string>
+    <string name="remian_less">尊敬的用户您好\n您的账户余额不足，无法完成充电！</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_normal">上拉查看更多</string>
+    <string name="have_order">您已经有预约，请到指定地点进行充电或者取消重新预约新地点</string>
+    <string name="not_logged_in">您还未登录，请登录后再试</string>
+</resources>
