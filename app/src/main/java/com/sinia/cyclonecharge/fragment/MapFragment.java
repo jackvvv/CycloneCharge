@@ -19,6 +19,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.animation.BounceInterpolator;
 import android.view.animation.Interpolator;
+import android.view.animation.LinearInterpolator;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -36,6 +37,9 @@ import com.amap.api.maps.model.BitmapDescriptorFactory;
 import com.amap.api.maps.model.LatLng;
 import com.amap.api.maps.model.Marker;
 import com.amap.api.maps.model.MarkerOptions;
+import com.amap.api.maps.model.animation.Animation;
+import com.amap.api.maps.model.animation.RotateAnimation;
+import com.amap.api.maps.model.animation.ScaleAnimation;
 import com.google.gson.Gson;
 import com.loopj.android.http.RequestParams;
 import com.sinia.cyclonecharge.R;
@@ -73,7 +77,7 @@ import static com.sinia.cyclonecharge.activity.MainActivity.currentLongitude;
  */
 
 public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListener, AMap
-        .OnInfoWindowClickListener, AMap.InfoWindowAdapter {
+        .OnInfoWindowClickListener, AMap.InfoWindowAdapter, AMap.OnMapClickListener {
     @Bind(R.id.map)
     MapView mapView;
     @Bind(R.id.iv_location)
@@ -235,6 +239,7 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
         aMap.setOnMarkerClickListener(this);
         aMap.setOnInfoWindowClickListener(this);
         aMap.setInfoWindowAdapter(this);
+        aMap.setOnMapClickListener(this);
         mlocationClient = new AMapLocationClient(getActivity().getApplicationContext());
         mlocationClient.setLocationListener(mLocationListener);
         mLocationOption = new AMapLocationClientOption();
@@ -329,7 +334,11 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
         });
     }
 
+
+    private ArrayList<Marker> markerList;
+
     private void addMarker() {
+        ArrayList<MarkerOptions> markerOptionlst = new ArrayList<MarkerOptions>();
         for (int i = 0; i < userCoordinateList.getChargeStationItem().size(); i++) {
             ChargeStationItemBean bean = userCoordinateList.getChargeStationItem().get(i);
             beanHashMap.put(bean.getEqnum(), bean);
@@ -340,8 +349,8 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
             markerOptions.position(latLng);
             markerOptions.draggable(false);
 //            markerOptions.title(bean.getEqnum());
-            markerOptions.title("长葛市新区政府充电站");
-            markerOptions.snippet(bean.getEqnum());
+//            markerOptions.title("长葛市新区政府充电站");
+//            markerOptions.snippet(bean.getEqnum());
 
             String status_old = bean.getIsState();
             String status_new = bean.getStatee();
@@ -364,8 +373,10 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
                 markerOptions.icon(BitmapDescriptorFactory
                         .fromResource(R.mipmap.ic_ordered));
             }
+            markerOptionlst.add(markerOptions);
             aMap.addMarker(markerOptions);
         }
+        markerList = aMap.addMarkers(markerOptionlst, true);
     }
 
     @Override
@@ -421,21 +432,29 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
         }
     }
 
+    private Marker cuMarker;
+
     @Override
     public boolean onMarkerClick(Marker marker) {
-        if (aMap != null) {
-            jumpPoint(marker);
+        //点击大头针
+        for (int i = 0; i < markerList.size(); i++) {
+            if (marker.equals(markerList.get(i))) {
+                cuMarker = marker;
+                if (aMap != null) {
+                    jumpPoint(marker, i);
+                }
+                createInfoWindowDialog(i);
+            }
         }
         return false;
     }
 
-    private void jumpPoint(final Marker marker) {
+    private void jumpPoint(final Marker marker, int position) {
         final Handler handler = new Handler();
         final long start = SystemClock.uptimeMillis();
         Projection proj = aMap.getProjection();
 
-//        ChargeStationItemBean itemBean = beanHashMap.get(marker.getTitle());
-        ChargeStationItemBean itemBean = beanHashMap.get(marker.getSnippet());
+        final ChargeStationItemBean itemBean = userCoordinateList.getChargeStationItem().get(position);
         final LatLng latlng = new LatLng(itemBean.getLatitude(), itemBean.getLongitude());
         Point startPoint = proj.toScreenLocation(latlng);
         startPoint.offset(0, -100);
@@ -465,12 +484,15 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
 
     @Override
     public void onInfoWindowClick(Marker marker) {
-        createInfoWindowDialog(marker);
+        //点击气泡
+        if (marker.isInfoWindowShown()) {
+            marker.hideInfoWindow();
+        }
     }
 
     private Dialog dialog;
 
-    private void createInfoWindowDialog(Marker marker) {
+    private void createInfoWindowDialog(int position) {
         LayoutInflater inflater = LayoutInflater.from(getActivity());
         View v = inflater.inflate(R.layout.layout_map_infowindow, null);
         dialog = new Dialog(getActivity(), R.style.ActionSheetDialogStyle3);
@@ -491,7 +513,8 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
         RelativeLayout rl_detail = (RelativeLayout) v.findViewById(R.id.rl_detail);
 
 //        final ChargeStationItemBean bean = beanHashMap.get(marker.getTitle());
-        final ChargeStationItemBean bean = beanHashMap.get(marker.getSnippet());
+//        final ChargeStationItemBean bean = beanHashMap.get(marker.getSnippet());
+        final ChargeStationItemBean bean = userCoordinateList.getChargeStationItem().get(position);
         tv_no.setText("设备编号：" + bean.getEqnum());
         tv_location.setText("设备坐标：" + bean.getLatitude() + "," + bean.getLongitude());
         img_close.setOnClickListener(new View.OnClickListener() {
@@ -569,4 +592,10 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
         return null;
     }
 
+    @Override
+    public void onMapClick(LatLng latLng) {
+        if (cuMarker.isInfoWindowShown()) {
+            cuMarker.hideInfoWindow();
+        }
+    }
 }

@@ -41,18 +41,22 @@ public class ChangePwdActivity extends BaseActivity {
 
     @OnClick(R.id.tv_ensure)
     public void onClick() {
-        if(etNewPwd.getEditableText().toString().equals("")){
+        if (etNewPwd.getEditableText().toString().equals("")) {
             showToast("请输入旧密码");
             return;
         }
-        if(etConfirmPwd.getEditableText().toString().equals("")){
+        if (etConfirmPwd.getEditableText().toString().equals("")) {
             showToast("请输入新密码");
+            return;
+        }
+        if (etConfirmPwd.getEditableText().toString().equals(etNewPwd.getEditableText().toString())) {
+            showToast("新密码不能与旧密码相同");
             return;
         }
         upPassword();
     }
 
-    private void upPassword(){
+    private void upPassword() {
         showLoad("");
         RequestParams params = new RequestParams();
         params.put("userId", MyApplication.getInstance().getLoginBean().getUserId());
@@ -62,10 +66,10 @@ public class ChangePwdActivity extends BaseActivity {
             @Override
             public void onSuccess(JSONObject json) {
                 dismiss();
-                if(json.optInt("state")==0&&json.optInt("isSuccessful")==0){
+                if (json.optInt("state") == 0 && json.optInt("isSuccessful") == 0) {
                     showToast("修改成功");
                     finish();
-                }else{
+                } else {
                     showToast("修改失败");
                 }
             }

@@ -75,4 +75,8 @@ public class BaseFragment extends Fragment {
             dialog.dismiss();
         }
     }
+
+    public boolean onBackPressed() {
+        return false;
+    }
 }

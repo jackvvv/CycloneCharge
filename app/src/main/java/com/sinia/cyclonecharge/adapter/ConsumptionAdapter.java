@@ -50,9 +50,9 @@ public class ConsumptionAdapter extends BaseAdapter {
         TextView tv_message = ViewHolder.get(convertView, R.id.tv_message);
         TextView tv_money = ViewHolder.get(convertView, R.id.tv_money);
         AccountItemsBean accountItemsBean = data.get(position);
-        tv_time.setText(accountItemsBean.getConsumeTime());
+        tv_time.setText(accountItemsBean.getConsumeTime() + "\n" + accountItemsBean.getConsumeDate());
         tv_message.setText(accountItemsBean.getContent());
-        if (accountItemsBean.getAccStauts().equals("1")) {
+        if (accountItemsBean.getContent().equals("充电消费")) {
             tv_message.setText("充电消费");
             tv_money.setText("-" + accountItemsBean.getMoney());
             tv_money.setTextColor(mContext.getResources().getColor(R.color.red));

@@ -3,6 +3,7 @@ package com.sinia.cyclonecharge.fragment;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,6 +19,7 @@ import com.sinia.cyclonecharge.base.BaseFragment;
 import com.sinia.cyclonecharge.libraryfragmenttransactionextended.FragmentTransactionExtended;
 import com.sinia.cyclonecharge.utils.Constants;
 import com.sinia.cyclonecharge.utils.MyApplication;
+import com.sinia.cyclonecharge.zxing.CaptureActivity;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -33,8 +35,6 @@ import static com.sinia.cyclonecharge.R.id.iv_list_or_map;
 public class HomeFragment extends BaseFragment {
     @Bind(R.id.iv_query)
     ImageView ivQuery;
-    @Bind(iv_list_or_map)
-    ImageView ivListOrMap;
     @Bind(et_search)
     TextView etSearch;
     @Bind(R.id.frame_content)
@@ -43,7 +43,8 @@ public class HomeFragment extends BaseFragment {
     private FragmentManager mFragmentManager;
     private MapFragment mapFragment;
     private ChargeListFragment chargeListFragment;
-    private boolean showFlag = true;
+    public static boolean showFlag = true;
+    public static ImageView iv_list_or_map;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -54,6 +55,7 @@ public class HomeFragment extends BaseFragment {
     }
 
     private void initData() {
+        iv_list_or_map = (ImageView) rootView.findViewById(R.id.iv_list_or_map);
         mFragmentManager = getFragmentManager();
         mapFragment = new MapFragment();
         mFragmentManager.beginTransaction().replace(R.id.frame_content, mapFragment).commit();
@@ -69,8 +71,9 @@ public class HomeFragment extends BaseFragment {
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.iv_query:
+                startActivityForNoIntent(CaptureActivity.class);
                 break;
-            case iv_list_or_map:
+            case R.id.iv_list_or_map:
                 if (showFlag) {
                     showFlag = false;
                     if (MyApplication.getInstance().getBoolValue(Constants.SP_HELPER.IS_LOGIN)) {
@@ -83,7 +86,7 @@ public class HomeFragment extends BaseFragment {
                                         chargeListFragment, R.id.frame_content);
                         fragmentTransactionExtended.addTransition(7, "");
                         fragmentTransactionExtended.commit();
-                        ivListOrMap.setImageResource(R.mipmap.change_map_icon);
+                        iv_list_or_map.setImageResource(R.mipmap.change_map_icon);
                     } else {
                         startActivityForNoIntent(LoginRegisterActivity.class);
                     }
@@ -91,7 +94,7 @@ public class HomeFragment extends BaseFragment {
                 } else {
                     showFlag = true;
                     mFragmentManager.popBackStack();
-                    ivListOrMap.setImageResource(R.mipmap.icon_list);
+                    iv_list_or_map.setImageResource(R.mipmap.icon_list);
                 }
                 break;
             case R.id.et_search:
@@ -104,4 +107,5 @@ public class HomeFragment extends BaseFragment {
                 break;
         }
     }
+
 }

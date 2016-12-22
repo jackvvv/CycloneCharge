@@ -13,6 +13,15 @@ public class AccountItemsBean implements Serializable {
     private String content;
     private String money;
     private String accStauts;
+    private String consumeDate;
+
+    public String getConsumeDate() {
+        return consumeDate;
+    }
+
+    public void setConsumeDate(String consumeDate) {
+        this.consumeDate = consumeDate;
+    }
 
     public String getId() {
         return id;

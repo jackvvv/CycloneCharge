@@ -24,10 +24,13 @@ import com.sinia.cyclonecharge.fragment.ChargingFragment;
 import com.sinia.cyclonecharge.fragment.HomeFragment;
 import com.sinia.cyclonecharge.fragment.MineFragment;
 import com.sinia.cyclonecharge.fragment.NewsFragment;
+import com.sinia.cyclonecharge.utils.FragmentBackListener;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+
+import static com.sinia.cyclonecharge.fragment.HomeFragment.showFlag;
 
 
 public class MainActivity extends BaseActivity {
@@ -77,6 +80,7 @@ public class MainActivity extends BaseActivity {
     IntentFilter intentFilter;
     BroadcastReceiver mReceiver;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -102,19 +106,20 @@ public class MainActivity extends BaseActivity {
             public void onReceive(Context context, Intent intent) {
                 //收到广播后所作的操作
                 if (intent.getAction().equals(ACTION_SHOWCHARHING)) {
-                    boolean showWhat = intent.getBooleanExtra("showWhat",false);
-                    if(showWhat){
+                    boolean showWhat = intent.getBooleanExtra("showWhat", false);
+                    if (showWhat) {
                         if (chargingFragment == null) {
                             chargingFragment = new ChargingFragment();
                         }
                         if (!chargingFragment.isAdded()) {
-                            mFragmentManager.beginTransaction().add(R.id.fragment_container, chargingFragment).commitAllowingStateLoss();
+                            mFragmentManager.beginTransaction().add(R.id.fragment_container, chargingFragment)
+                                    .commitAllowingStateLoss();
                         }
                         hideFragments2(homeFragment, chargeFragment, mineFragment, newsFragment);
                         showFragment2(chargingFragment);
-                    }else{
+                    } else {
                         mFragmentManager.beginTransaction().remove(chargingFragment);
-                        hideFragments2(homeFragment, newsFragment, mineFragment,chargingFragment);
+                        hideFragments2(homeFragment, newsFragment, mineFragment, chargingFragment);
                         showFragment2(chargeFragment);
                     }
                 }
@@ -139,7 +144,7 @@ public class MainActivity extends BaseActivity {
                 if (!chargeFragment.isAdded()) {
                     mFragmentManager.beginTransaction().add(R.id.fragment_container, chargeFragment).commit();
                 }
-                hideFragments(homeFragment, newsFragment, mineFragment,chargingFragment);
+                hideFragments(homeFragment, newsFragment, mineFragment, chargingFragment);
                 showFragment(chargeFragment);
                 break;
             case R.id.ll_news:
@@ -200,6 +205,7 @@ public class MainActivity extends BaseActivity {
         }
         ft.commitAllowingStateLoss();
     }
+
     private void changeView() {
         switch (currentSelect) {
             case 0:
@@ -244,9 +250,22 @@ public class MainActivity extends BaseActivity {
                 break;
         }
     }
+
     @Override
     public void onDestroy() {
         super.onDestroy();
         broadcastManager.unregisterReceiver(mReceiver);
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (HomeFragment.showFlag) {
+            HomeFragment.showFlag = false;
+            HomeFragment.iv_list_or_map.setImageResource(R.mipmap.change_map_icon);
+        } else {
+            HomeFragment.showFlag = true;
+            HomeFragment.iv_list_or_map.setImageResource(R.mipmap.icon_list);
+        }
+        super.onBackPressed();
     }
 }
