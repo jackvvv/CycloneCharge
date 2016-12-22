@@ -134,6 +134,8 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
     public static final int WHAT_SHOW_DATEPICKER = 4;
     public static final int WHAT_SELECT_TIME = 5;
     private boolean isOrder = false;
+    private Marker cuMarker;
+    private ArrayList<Marker> markerList;
 
     private Handler handler = new Handler() {
         @Override
@@ -334,9 +336,6 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
         });
     }
 
-
-    private ArrayList<Marker> markerList;
-
     private void addMarker() {
         ArrayList<MarkerOptions> markerOptionlst = new ArrayList<MarkerOptions>();
         for (int i = 0; i < userCoordinateList.getChargeStationItem().size(); i++) {
@@ -431,8 +430,6 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
                 break;
         }
     }
-
-    private Marker cuMarker;
 
     @Override
     public boolean onMarkerClick(Marker marker) {
