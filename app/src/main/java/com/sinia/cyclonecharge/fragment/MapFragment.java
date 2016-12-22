@@ -115,7 +115,6 @@ public class MapFragment extends BaseFragment implements AMap.OnMarkerClickListe
                     aMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 14));
                 } else {
                     String errText = "定位失败," + amapLocation.getErrorCode() + ": " + amapLocation.getErrorInfo();
-                    Log.e("AmapErr", errText);
                 }
             }
         }
